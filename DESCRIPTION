@@ -1,0 +1,11 @@
+Package: helpful_AF
+Type: Package
+Title: Personal R Package of Andrew Flack (AF)
+Version: 0.1.0
+Author: Andrew Flack
+Maintainer: Andrew Flack <flack.andrew@gmail.com>
+Description: This package is a collection of miscellaneous functions and tools
+    that I find helpful.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
